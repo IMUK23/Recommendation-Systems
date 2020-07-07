@@ -6,6 +6,8 @@
 List of Currently available Recommendation System-
 <ul><li>Weighted Average Recommendation System on TMDB dataset.
   <li>Collaborative Filtering Recommendation System using KNN on Movie Lens dataset.
+    
+  <li>Books Recommendation System Using Pearson Correlation between Books using Books Dataset.
 </ul>
 
 </h3>
