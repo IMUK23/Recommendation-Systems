@@ -5,6 +5,7 @@
 <h3>
 List of Currently available Recommendation System-
 <ul><li>Weighted Average Recommendation System on TMDB dataset.
+  <li>Collaborative Filtering Recommendation System using KNN on Movie Lens dataset.
 </ul>
 
 </h3>
