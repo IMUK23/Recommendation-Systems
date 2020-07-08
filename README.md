@@ -8,6 +8,8 @@ List of Currently available Recommendation System-
   <li>Collaborative Filtering Recommendation System using KNN on Movie Lens dataset.
     
   <li>Books Recommendation System Using Pearson Correlation between Books using Books Dataset.
+
+  <li>Movie Recommendation System on tmdb dataset using Content Based filtering.
 </ul>
 
 </h3>
